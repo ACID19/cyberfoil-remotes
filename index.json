@@ -1,0 +1,8 @@
+{
+  "directories": [
+    "https://nx.ghostland.at",
+    "https://nx-retro.ghostland.at",
+    "https://nx-saves.ghostland.at"
+  ],
+  "success": "OpenNX bereinigt: Ghost PUBLIC, Ghost RETRO und NX Saves. Weitere Quellen erst nach erfolgreichem Einzeltest."
+}
