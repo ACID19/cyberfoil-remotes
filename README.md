@@ -4,6 +4,7 @@ A filtered copy of the public OpenNX directory list for CyberFoil.
 
 Included sources:
 - Ghost eShop PUBLIC
+- Gandalf
 - Ghost eShop RETRO
 - NX Saves
 
