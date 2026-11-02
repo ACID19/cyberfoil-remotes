@@ -1,8 +1,9 @@
 {
   "directories": [
     "https://nx.ghostland.at",
+    "https://gandalfsax.com/",
     "https://nx-retro.ghostland.at",
     "https://nx-saves.ghostland.at"
   ],
-  "success": "OpenNX bereinigt: Ghost PUBLIC, Ghost RETRO und NX Saves. Weitere Quellen erst nach erfolgreichem Einzeltest."
+  "success": "OpenNX bereinigt: Ghost PUBLIC, Gandalf, Ghost RETRO und NX Saves."
 }
